@@ -1,2 +1,2 @@
 # stay
-gothic and kitty needs batman
+gotham kitty needs batman
